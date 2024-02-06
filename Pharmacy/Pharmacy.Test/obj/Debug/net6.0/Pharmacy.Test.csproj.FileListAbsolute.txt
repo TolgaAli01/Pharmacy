@@ -1,0 +1,7 @@
+C:\Users\sibel_ali\Desktop\Pharmacy\Pharmacy\Pharmacy.Test\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\sibel_ali\Desktop\Pharmacy\Pharmacy\Pharmacy.Test\obj\Debug\net6.0\Pharmacy.Test.csproj.AssemblyReference.cache
+C:\Users\sibel_ali\Desktop\Pharmacy\Pharmacy\Pharmacy.Test\obj\Debug\net6.0\Pharmacy.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sibel_ali\Desktop\Pharmacy\Pharmacy\Pharmacy.Test\obj\Debug\net6.0\Pharmacy.Test.AssemblyInfoInputs.cache
+C:\Users\sibel_ali\Desktop\Pharmacy\Pharmacy\Pharmacy.Test\obj\Debug\net6.0\Pharmacy.Test.AssemblyInfo.cs
+C:\Users\sibel_ali\Desktop\Pharmacy\Pharmacy\Pharmacy.Test\obj\Debug\net6.0\Pharmacy.Test.csproj.CoreCompileInputs.cache
+C:\Users\sibel_ali\Desktop\Pharmacy\Pharmacy\Pharmacy.Test\obj\Debug\net6.0\Pharmacy.Test.sourcelink.json

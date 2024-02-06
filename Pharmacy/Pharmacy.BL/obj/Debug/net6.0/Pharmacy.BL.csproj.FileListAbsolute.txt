@@ -1,0 +1,6 @@
+C:\Users\sibel_ali\Desktop\Pharmacy\Pharmacy\Pharmacy.BL\obj\Debug\net6.0\Pharmacy.BL.csproj.AssemblyReference.cache
+C:\Users\sibel_ali\Desktop\Pharmacy\Pharmacy\Pharmacy.BL\obj\Debug\net6.0\Pharmacy.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sibel_ali\Desktop\Pharmacy\Pharmacy\Pharmacy.BL\obj\Debug\net6.0\Pharmacy.BL.AssemblyInfoInputs.cache
+C:\Users\sibel_ali\Desktop\Pharmacy\Pharmacy\Pharmacy.BL\obj\Debug\net6.0\Pharmacy.BL.AssemblyInfo.cs
+C:\Users\sibel_ali\Desktop\Pharmacy\Pharmacy\Pharmacy.BL\obj\Debug\net6.0\Pharmacy.BL.csproj.CoreCompileInputs.cache
+C:\Users\sibel_ali\Desktop\Pharmacy\Pharmacy\Pharmacy.BL\obj\Debug\net6.0\Pharmacy.BL.sourcelink.json
